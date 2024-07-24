@@ -5,3 +5,5 @@ code line 1
 code line 2
 code line 3
 git line 1
+git line 2
+git line 3
